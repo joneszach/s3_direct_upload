@@ -6,6 +6,8 @@ spec/gallery-jquery-fileupload
 .config
 .yardoc
 .idea
+.ruby-gemset
+.ruby-version
 Gemfile.lock
 InstalledFiles
 _yardoc
